@@ -1,6 +1,6 @@
 package com.example.chucknorisjoke.services;
 
-public interface ChuckNoris {
+public interface JokeService {
     public String getJoke();
 
 }
